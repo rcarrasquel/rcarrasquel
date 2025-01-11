@@ -27,8 +27,8 @@
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
     <img src="https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white">
     <img src="https://img.shields.io/badge/Issabel-EC7225?style=for-the-badge&logoColor=white">
-    <img src="https://img.shields.io/badge/Soporte_Técnico-00A1E0?style=for-the-badge&logo=helpdesk&logoColor=white">
-    <img src="https://img.shields.io/badge/Central_Telefónica-0078D4?style=for-the-badge&logo=phone&logoColor=white">
+    <img src="https://img.shields.io/badge/Tech_Support-00A1E0?style=for-the-badge&logo=helpdesk&logoColor=white">
+    <img src="https://img.shields.io/badge/Telephone_Exchange-0078D4?style=for-the-badge&logo=phone&logoColor=white">
     <img src="https://img.shields.io/badge/Chatbot-FF9900?style=for-the-badge&logo=chatbot&logoColor=white">
     <img src="https://img.shields.io/badge/API-009688?style=for-the-badge&logo=api&logoColor=white">
     <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white">
