@@ -14,6 +14,7 @@
 -	🌐 Networking: Basic network setup and management.
 -	📞 Telecommunications: IP telephony systems using Asterisk/Issabel.
 
+## Some Websites I Have Built
 <br>
 <table width="100%">
    <tr>
@@ -31,7 +32,7 @@
       <td width="50%">
          <h3 align="center">Páramo House</h3>
          <div align="center">
-            <a href="https://github.com/ArisGuimera/Curso-Kotlin-Multiplatform" target="_blank">
+            <a href="https://paramohouse.com/" target="_blank">
                 <img src="https://i.imgur.com/clmDVlA.png" width="400" alt="Páramo House">
             </a>
             <p>
@@ -40,12 +41,11 @@
          </div>
       </td>
    </tr>
-
    <tr>
       <td width="50%">
          <h3 align="center">Olga Toscano</h3>
          <div align="center">
-            <a href="https://www.saludamiga.com/" target="_blank">
+            <a href="https://olgatoscano.net/" target="_blank">
                 <img src="https://i.imgur.com/jq8jA3G.png" width="400" alt="Olga Toscano">
             </a>
             <p>              
@@ -56,7 +56,7 @@
       <td width="50%">
          <h3 align="center">Mujeres con Visión</h3>
          <div align="center">
-            <a href="https://github.com/ArisGuimera/Curso-Kotlin-Multiplatform" target="_blank">
+            <a href="https://mujeresconvision.org/" target="_blank">
                 <img src="https://i.imgur.com/PQR1n4l.png" width="400" alt="Mujeres con Visión">
             </a>
             <p>
@@ -65,7 +65,102 @@
          </div>
       </td>
    </tr>
-
+    <tr>
+        <td width="50%">
+            <h3 align="center">Migrants Right Legal Services</h3>
+            <div align="center">
+                <a href="https://mrls.com.co/" target="_blank">
+                    <img src="https://i.imgur.com/K1SjmUg.png" width="400" alt="Migrants Right Legal Services">
+                </a>
+                <p>
+                    <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white">
+                </p>
+            </div>
+        </td>
+        <td width="50%">
+            <h3 align="center">Kusi</h3>
+            <div align="center">
+                <a href="https://kusimanagement.com/" target="_blank">
+                    <img src="https://i.imgur.com/HNqvgUv.png" width="400" alt="Kusi">
+                </a>
+                <p>
+                    <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white">
+                </p>
+            </div>
+        </td>
+    </tr>
+    <tr>
+        <td width="50%">
+            <h3 align="center">Jackarmon</h3>
+            <div align="center">
+                <a href="https://jackarmom.com/" target="_blank">
+                    <img src="https://i.imgur.com/nCrRnW1.png" width="400" alt="Jackarmon">
+                </a>
+                <p>
+                    <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white">
+                </p>
+            </div>
+        </td>
+        <td width="50%">
+            <h3 align="center">Eternalec</h3>
+            <div align="center">
+                <a href="https://eternalec.com/" target="_blank">
+                    <img src="https://i.imgur.com/e4vq2N6.png" width="400" alt="Eternalec">
+                </a>
+                <p>
+                    <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white">
+                </p>
+            </div>
+        </td>
+    </tr>
+    <tr>
+        <td width="50%">
+            <h3 align="center">El Genio de las Baterías</h3>
+            <div align="center">
+                <a href="https://elgeniodelasbaterias.com/" target="_blank">
+                    <img src="https://i.imgur.com/DuWdSXk.png" width="400" alt="El Genio de las Baterías">
+                </a>
+                <p>
+                    <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white">
+                </p>
+            </div>
+        </td>
+        <td width="50%">
+            <h3 align="center">Ebook La Vida Entre Fronteras</h3>
+            <div align="center">
+                <a href="https://ebook.difyfoundation.com/" target="_blank">
+                    <img src="https://i.imgur.com/J4cBXlJ.png" width="400" alt="Ebook La Vida Entre Fronteras">
+                </a>
+                <p>
+                    <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white">
+                </p>
+            </div>
+        </td>
+    </tr>
+    <tr>
+        <td width="50%">
+            <h3 align="center">El Genio de las Baterías</h3>
+            <div align="center">
+                <a href="https://elgeniodelasbaterias.com/" target="_blank">
+                    <img src="https://i.imgur.com/DuWdSXk.png" width="400" alt="El Genio de las Baterías">
+                </a>
+                <p>
+                    <img  src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white">
+                </p>
+            </div>
+        </td>
+        <td width="50%">
+            <h3 align="center">Ebook La Vida Entre Fronteras</h3>
+            <div align="center">
+                <a href="https://ebook.difyfoundation.com/" target="_blank">
+                    <img src="https://i.imgur.com/J4cBXlJ.png" width="400" alt="Ebook La Vida Entre Fronteras">
+                </a>
+                <p>
+                    <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white">
+                </p>
+            </div>
+        </td>
+    </tr>
 </table>
 <!--
 **rcarrasquel/rcarrasquel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
