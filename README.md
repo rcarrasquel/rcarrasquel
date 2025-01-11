@@ -13,7 +13,26 @@
 -	🖥️ Hosting and Cloud: AWS (basic), cPanel.
 -	🌐 Networking: Basic network setup and management.
 -	📞 Telecommunications: IP telephony systems using Asterisk/Issabel.
-
+ <div align="center">
+    <p>
+        <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
+        <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white">
+        <img src="https://img.shields.io/badge/Livewire-4E56A6?style=for-the-badge&logo=laravel&logoColor=white">
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white">
+        <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white">
+        <img src="https://img.shields.io/badge/cPanel-FF6C2C?style=for-the-badge&logo=cpanel&logoColor=white">
+        <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+        <img src="https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white">
+        <img src="https://img.shields.io/badge/Issabel-EC7225?style=for-the-badge&logoColor=white">
+        <img src="https://img.shields.io/badge/Soporte_Técnico-00A1E0?style=for-the-badge&logo=helpdesk&logoColor=white">
+        <img src="https://img.shields.io/badge/Central_Telefónica-0078D4?style=for-the-badge&logo=phone&logoColor=white">
+        <img src="https://img.shields.io/badge/Chatbot-FF9900?style=for-the-badge&logo=chatbot&logoColor=white">
+        <img src="https://img.shields.io/badge/API-009688?style=for-the-badge&logo=api&logoColor=white">
+        <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white">
+    </p>
+</div>
 ## Some Websites I Have Built
 <br>
 <table width="100%">
