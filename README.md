@@ -28,10 +28,12 @@
     <img src="https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white">
     <img src="https://img.shields.io/badge/Issabel-EC7225?style=for-the-badge&logoColor=white">
     <img src="https://img.shields.io/badge/Tech_Support-00A1E0?style=for-the-badge&logo=helpdesk&logoColor=white">
-    <img src="https://img.shields.io/badge/Telephone_Exchange-0078D4?style=for-the-badge&logo=phone&logoColor=white">
+    <img src="https://img.shields.io/badge/Telephone_Exchange-0078D4?style=for-the-badge">
     <img src="https://img.shields.io/badge/Chatbot-FF9900?style=for-the-badge&logo=chatbot&logoColor=white">
     <img src="https://img.shields.io/badge/API-009688?style=for-the-badge&logo=api&logoColor=white">
     <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
+    <img src="https://img.shields.io/badge/SMS-4A90E2?style=for-the-badge&logo=sms&logoColor=white">
 </p>
 <br>
 
