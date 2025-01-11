@@ -35,8 +35,45 @@
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
     <img src="https://img.shields.io/badge/SMS-4A90E2?style=for-the-badge&logo=sms&logoColor=white">
 </p>
-<br>
 
+## Highlighted Projects
+<br>
+<table width="100%">
+   <tr>
+      <td width="50%">
+        <h3>Debt Collection Management System - Collector Core</h3>
+        <ul>
+            <li><strong>Description:</strong> Developed a system for managing debt collections using Laravel, PHP, and PostgreSQL. Features include authentication, role-based access control, an intuitive admin panel to manage multiple portfolios and debtors, WhatsApp integration for notifications and interaction with an intelligent chatbot, and multiple API connections for interacting with external applications.</li>
+            <li><strong>Technologies:</strong> Laravel, PHP, PostgreSQL, HTML, CSS, JavaScript, Python (for internal process handling), AWS.</li>
+            <li><strong>Role:</strong> Frontend and Backend Developer.</li>
+            <li><strong>Results:</strong> Achieved a 90% increase in efficiency for managing debtor data.</li>
+        </ul>
+         <div align="center">   
+            <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
+            <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white">
+            <img src="https://img.shields.io/badge/Livewire-4E56A6?style=for-the-badge&logo=laravel&logoColor=white">
+            <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white">
+            <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white">
+            <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
+            <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+            <img src="https://img.shields.io/badge/Issabel-EC7225?style=for-the-badge&logoColor=white">
+            <img src="https://img.shields.io/badge/Central_Telefónica-0078D4?style=for-the-badge&logo=phone&logoColor=white">
+            <img src="https://img.shields.io/badge/Chatbot-FF9900?style=for-the-badge&logo=chatbot&logoColor=white">
+            <img src="https://img.shields.io/badge/API-009688?style=for-the-badge&logo=api&logoColor=white">
+            <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
+            <img src="https://img.shields.io/badge/SMS-4A90E2?style=for-the-badge&logo=sms&logoColor=white">
+         </div>
+      </td>
+      <td width="50%">        
+         <div align="center">           
+            <img src="https://i.imgur.com/AR8mRcN.png" width="100%" alt="Collector Core">            
+         </div>
+      </td>
+   </tr>
+
+  
+
+</table>
 ## Some Websites I Have Built
 <br>
 <table width="100%">
