@@ -40,7 +40,7 @@
 <br>
 <table width="100%">
    <tr>
-      <td width="50%">
+      <td>
         <h3>Debt Collection Management System - Collector Core</h3>
         <ul>
             <li><strong>Description:</strong> Developed a system for managing debt collections using Laravel, PHP, and PostgreSQL. Features include authentication, role-based access control, an intuitive admin panel to manage multiple portfolios and debtors, WhatsApp integration for notifications and interaction with an intelligent chatbot, and multiple API connections for interacting with external applications.</li>
@@ -48,6 +48,9 @@
             <li><strong>Role:</strong> Frontend and Backend Developer.</li>
             <li><strong>Results:</strong> Achieved a 90% increase in efficiency for managing debtor data.</li>
         </ul>
+        <div align="center">           
+            <img src="https://i.imgur.com/AR8mRcN.png" width="100%" alt="Collector Core">            
+         </div>
          <div align="center">   
             <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
             <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white">
@@ -63,12 +66,7 @@
             <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
             <img src="https://img.shields.io/badge/SMS-4A90E2?style=for-the-badge&logo=sms&logoColor=white">
          </div>
-      </td>
-      <td width="50%">        
-         <div align="center">           
-            <img src="https://i.imgur.com/AR8mRcN.png" width="100%" alt="Collector Core">            
-         </div>
-      </td>
+      </td>     
    </tr>
 
   
