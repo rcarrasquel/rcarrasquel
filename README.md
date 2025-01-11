@@ -2,7 +2,16 @@
   <h1 align="center">Hello, I'm Ramon Carrasquel 👋</h1>
 </div>
 
-## About Me
+## Professional Summary
+<p>Experienced IT professional with over 16 years of expertise in software development, web and mobile application design, and IT infrastructure support. Proficient in implementing web servers, IP telephony systems, and cloud services. Adept at integrating APIs, managing databases, and providing technical support. Committed to delivering innovative solutions and optimizing system performance.</p>
+
+<p>
+  <a href="mailto:ramoncarrasquel844@gmail.com">
+    <img src="https://img.shields.io/badge/Contact_Me_Now-ramoncarrasquel844@gmail.com-blue?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact Me Now">
+  </a>
+</p>
+
+## Technical Skills
 - 💻 Web Developer 
 - 🛠️ Languages: PHP, JavaScript, HTML5, CSS, Python, Node.js.
 - 🧰 Frameworks: Laravel, Ionic Framework (intermediate).
@@ -13,7 +22,6 @@
 -	🖥️ Hosting and Cloud: AWS (basic), cPanel.
 -	🌐 Networking: Basic network setup and management.
 -	📞 Telecommunications: IP telephony systems using Asterisk/Issabel.
-
 
 <p align="center">
     <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
@@ -257,10 +265,10 @@
     </tr>
     <tr>
         <td width="50%">
-            <h3 align="center">El Genio de las Baterías</h3>
+            <h3 align="center">Comercas</h3>
             <div align="center">
-                <a href="https://elgeniodelasbaterias.com/" target="_blank">
-                    <img src="https://i.imgur.com/DuWdSXk.png" width="400" alt="El Genio de las Baterías">
+                <a href="https://comercascr.com/" target="_blank">
+                    <img src="https://i.imgur.com/zuUP2Yo.png" width="400" alt="Comercas">
                 </a>
                 <p>
                     <img  src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white">
@@ -268,10 +276,10 @@
             </div>
         </td>
         <td width="50%">
-            <h3 align="center">Ebook La Vida Entre Fronteras</h3>
+            <h3 align="center">Instituto ASECA</h3>
             <div align="center">
-                <a href="https://ebook.difyfoundation.com/" target="_blank">
-                    <img src="https://i.imgur.com/J4cBXlJ.png" width="400" alt="Ebook La Vida Entre Fronteras">
+                <a href="https://institutoaseca.com" target="_blank">
+                    <img src="https://i.imgur.com/dkJA55N.png" width="400" alt="Instituto ASECA">
                 </a>
                 <p>
                     <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white">
