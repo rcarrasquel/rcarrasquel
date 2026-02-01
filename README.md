@@ -3,7 +3,7 @@
 </div>
 
 ## Professional Summary
-<p>Experienced IT professional with over 16 years of expertise in software development, web and mobile application design, and IT infrastructure support. Proficient in implementing web servers, IP telephony systems, and cloud services. Adept at integrating APIs, managing databases, and providing technical support. Committed to delivering innovative solutions and optimizing system performance.</p>
+<p>IT professional with extensive experience in technical support, system maintenance, and web-based solutions. Background includes user support, troubleshooting, basic network configuration, and maintaining reliable digital environments. Experienced working with web technologies, databases, cloud platforms, and integrations. Focused on practical problem-solving, documentation, and continuous learning.</p>
 
 <p>
   <a href="mailto:ramoncarrasquel844@gmail.com">
@@ -12,15 +12,17 @@
 </p>
 
 ## Technical Skills
+- 💻 IT Support & Systems: Level 1–2 technical support, user assistance, and basic troubleshooting.
+- 🖥️ Operating Systems & Platforms: Windows environments, web-based systems, and hosting platforms.
 - 💻 Web Developer 
 - 🛠️ Languages: PHP, JavaScript, HTML5, CSS, Python, Node.js.
-- 🧰 Frameworks: Laravel, Ionic Framework (intermediate).
+- 🧰 Frameworks: Laravel, Ionic Framework.
 -	🌐 CMS: WordPress.
--	☁️ Cloud Platforms: Amazon Web Services (AWS - Intermediate level).
+-	☁️ Cloud Platforms: Amazon Web Services.
 -	🗄️ Database Management: MySQL, PostgreSQL.
--	🔗 API Integration: SMS, WhatsApp, email campaigns, automated calls.
--	🖥️ Hosting and Cloud: AWS (basic), cPanel.
--	🌐 Networking: Basic network setup and management.
+-	🔗 API Integration.
+-	🖥️ Hosting and Cloud: AWS, cPanel.
+-	🌐 Networking: Network setup and management.
 -	📞 Telecommunications: IP telephony systems using Asterisk/Issabel.
 
 <p align="center">
